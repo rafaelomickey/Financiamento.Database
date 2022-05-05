@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Financiamento.Database/v16/.suo
+/src/Financiamento.Database/bin/Debug
+/src/Financiamento.Database/obj/Debug
+/src/Financiamento.Database/Financiamento.Database.sqlproj.user

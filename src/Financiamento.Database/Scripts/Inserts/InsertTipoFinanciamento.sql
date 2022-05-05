@@ -1,0 +1,1 @@
+﻿INSERT INTO TIPO_FINANCIAMENTO(   TPF_DESCRICAO) VALUES('Crédito Direto'),('Crédito Consignado'),('Crédito Pessoa Jurídica'),('Crédito Pessoa Física'),('Crédito Imobiliário')

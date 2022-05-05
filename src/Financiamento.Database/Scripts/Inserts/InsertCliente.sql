@@ -1,0 +1,1 @@
+﻿INSERT INTO CLIENTE (   CLI_NOME,    CLI_UF,    CLI_CELULAR ) VALUES('Antonio', 'SP', '1198921320'),('Maria', 'SP', '1198921322'),('João', 'SP', '1198921323'),('José', 'RJ', '1198921324'),('Lucas', 'PE', '8198921325')
